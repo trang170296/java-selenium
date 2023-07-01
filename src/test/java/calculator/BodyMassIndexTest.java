@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.*;
 import pages.BodyMassIndexPage;
 
-public class BodyMassIndex extends BaseTest {
+public class BodyMassIndexTest extends BaseTest {
 
     BodyMassIndexPage bodyMassIndexPage;
 

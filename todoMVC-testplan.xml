@@ -4,6 +4,7 @@
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="todo.CreateNewTodoTest"/>
+            <class name="calculator.BodyMassIndexTest"/>
         </classes>
     </test>
 

@@ -3,7 +3,7 @@
     <test name="Unit Metric on Chrome">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="calculator.BodyMassIndex"/>
+            <class name="calculator.BodyMassIndexTest"/>
         </classes>
     </test>
 
