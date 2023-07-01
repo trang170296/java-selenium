@@ -4,9 +4,6 @@
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="todo.CreateNewTodoTest"/>
-<!--            <methods>-->
-<!--                <include name="abledMarkCompleteATask" />-->
-<!--            </methods>-->
         </classes>
     </test>
 
